@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Test-KCPR.aternos.me",
+    "ip": "Test-KCPR.aternos.me",#
+      "port": 27586,
     "version": "",
     "try-creative": false
   },
