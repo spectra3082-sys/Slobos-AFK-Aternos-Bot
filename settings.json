@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Test-KCPR.aternos.me",
-      "port": 27586,
+      "port": ,
     "version": "",
     "try-creative": false
   },
